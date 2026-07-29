@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/outbox-dispatcher-async-handling",
+    "fix/pr-725-merge",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/outbox-dispatcher-async-handling": "main",
+    "fix/pr-725-merge": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/outbox-dispatcher-async-handling",
+    "fix/pr-725-merge",
+    "origin"
+  ]
+}
